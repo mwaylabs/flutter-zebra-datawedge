@@ -1,8 +1,8 @@
-name: flutter_zebra_datawedge
+name: zebra_datawedge
 description: A new flutter plugin project.
 version: 0.0.2
-author: daniel.kononov@mway.io
-homepage: https://github.com/mwaylabs/flutter-zebra-datawedge
+author: javaherisaber <m.javaherisaber@gmail.com>
+homepage: https://github.com/javaherisaber/flutter-zebra-datawedge
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
@@ -22,6 +22,6 @@ flutter:
   plugin:
     platforms:
       android:
-        package: io.mway.flutter_zebra_datawedge
-        pluginClass: FlutterZebraDatawedgePlugin
+        package: io.mway.zebra_datawedge
+        pluginClass: ZebraDatawedgePlugin
 

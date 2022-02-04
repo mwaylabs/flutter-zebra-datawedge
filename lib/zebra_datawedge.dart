@@ -2,7 +2,7 @@ import 'dart:async';
 
 import 'package:flutter/services.dart';
 
-class FlutterZebraDataWedge {
+class ZebraDataWedge {
   static const EventChannel _eventChannel =
       const EventChannel('data_wedge_event');
 

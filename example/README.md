@@ -1,6 +1,6 @@
-# flutter_zebra_datawedge_example
+# zebra_datawedge_example
 
-Demonstrates how to use the flutter_zebra_datawedge plugin.
+Demonstrates how to use the zebra_datawedge plugin.
 
 ## Getting Started
 

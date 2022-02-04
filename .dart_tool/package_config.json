@@ -128,13 +128,13 @@
       "languageVersion": "2.14"
     },
     {
-      "name": "flutter_zebra_datawedge",
+      "name": "zebra_datawedge",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2022-02-03T10:56:24.182753Z",
+  "generated": "2022-02-04T07:32:50.367354Z",
   "generator": "pub",
   "generatorVersion": "2.15.1"
 }

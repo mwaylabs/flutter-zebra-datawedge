@@ -3,7 +3,7 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'dart:async';
 
-import 'package:flutter_zebra_datawedge/flutter_zebra_datawedge.dart';
+import 'package:zebra_datawedge/zebra_datawedge.dart';
 
 void main() {
   runApp(MyApp());
@@ -27,7 +27,7 @@ class _MyAppState extends State<MyApp> {
 
 // create a listener for data wedge package
   Future<void> initDataWedgeListener() async {
-    FlutterZebraDataWedge.listenForDataWedgeEvent((response) {
+    ZebraDataWedge.listenForDataWedgeEvent((response) {
       if (response != null && response is String)
         setState(() {
           Map<String, dynamic> jsonResponse;

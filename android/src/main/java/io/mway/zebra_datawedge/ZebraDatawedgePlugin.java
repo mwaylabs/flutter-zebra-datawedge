@@ -1,4 +1,4 @@
-package io.mway.flutter_zebra_datawedge;
+package io.mway.zebra_datawedge;
 
 import androidx.annotation.NonNull;
 
@@ -10,7 +10,7 @@ import io.flutter.plugin.common.EventChannel;
 import java.util.ArrayList;
 
 /** FlutterZebraDatawedgePlugin */
-public class FlutterZebraDatawedgePlugin implements FlutterPlugin {
+public class ZebraDatawedgePlugin implements FlutterPlugin {
 
   /**
    * EventChannel which will be used to provide Event to Flutter part

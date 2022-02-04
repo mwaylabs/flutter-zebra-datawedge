@@ -1,4 +1,4 @@
-package io.mway.flutter_zebra_datawedge;
+package io.mway.zebra_datawedge;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;

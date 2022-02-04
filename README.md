@@ -1,4 +1,5 @@
-# flutter-zebra-datawedge
+# zebra-datawedge
+NOTICE: This package is forked from [here](https://github.com/mwaylabs/flutter-zebra-datawedge) to support for null-safety
 Only for Android.
 Based on this example: https://github.com/darryncampbell/DataWedge-Intent-Example-1
 
