@@ -6,7 +6,7 @@ This package was created to support hardware scanner for Zebra devices (ET5X) wi
 Providing a simple stream which contains events fired by DataWedge (5.0).
 
 For sure this is a minimal solution as it focus only to support DataWedge version 5.0.
-With never DataWedge versions there are more possibilities and also prettier solutions.
+With newer DataWedge versions there are more possibilities and also prettier solutions.
 Like creating incode the necessary profile.
 
 # Profile Configuration
