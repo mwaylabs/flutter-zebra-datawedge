@@ -1,4 +1,5 @@
 # flutter-zebra-datawedge
+
 Only for Android.
 Based on this example: https://github.com/darryncampbell/DataWedge-Intent-Example-1
 
@@ -6,9 +7,13 @@ This package was created to support hardware scanner for Zebra devices (ET5X) wi
 Providing a simple stream which contains events fired by DataWedge (5.0).
 
 For sure this is a minimal solution as it focus only to support DataWedge version 5.0.
-With never DataWedge versions there are more possibilities and also prettier solutions.
+With newer DataWedge versions there are more possibilities and also prettier solutions.
 Like creating incode the necessary profile.
+# Discontinued
+This package is marked as discontinued since it is a simple intent wrapper with data wedge preconfiguration.
+Also we don't have anymore devices to test.
 
+Please consider switch to an `intent` package directly or fork this package.
 # Profile Configuration
 
 As described in the previous written link, you have to set up your profile configuration properly to be able listen for the DataWedge Intent.

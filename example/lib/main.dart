@@ -30,7 +30,7 @@ class _MyAppState extends State<MyApp> {
     FlutterZebraDataWedge.listenForDataWedgeEvent((response) {
       if (response != null && response is String)
         setState(() {
-          Map<String, dynamic> jsonResponse;
+          Map<String, dynamic>? jsonResponse;
           try {
             jsonResponse = json.decode(response);
           } catch (e) {
